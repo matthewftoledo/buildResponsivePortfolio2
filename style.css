@@ -341,3 +341,13 @@ section {
 .footer .social-icons {
   text-align: center;
 }
+
+.footer ul {
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.footer ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
