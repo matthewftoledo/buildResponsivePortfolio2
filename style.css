@@ -351,3 +351,9 @@ section {
   display: inline-block;
   margin-left: 20px;
 }
+
+.footer ul li a {
+  color: white;
+  border-bottom: 3px solid transparent;
+  transition: 0.3s ease-in-out;
+}
