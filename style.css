@@ -390,4 +390,12 @@ section {
       margin: 3rem 0;
       color: var(--text-color);
     }
+    .navbar.active {
+      display: block;
+    }
+    .home {
+      flex-direction: column-reverse;
+      margin: 5rem 0;
+      gap: 5rem;
+    }
 }
