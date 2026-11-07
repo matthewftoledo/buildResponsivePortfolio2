@@ -405,4 +405,8 @@ section {
     .home-img {
       width: 52vw;
     }
+    .about {
+      flex-direction: column-reverse;
+      text-align: center;
+    }
 }
