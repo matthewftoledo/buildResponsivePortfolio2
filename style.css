@@ -409,4 +409,8 @@ section {
       flex-direction: column-reverse;
       text-align: center;
     }
+    .about h2 {
+      text-align: center;
+      margin: 2rem 0;
+    }
 }
