@@ -413,4 +413,7 @@ section {
       text-align: center;
       margin: 2rem 0;
     }
+    .about img {
+      width: 52vw;
+    }
 }
