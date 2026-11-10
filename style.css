@@ -416,4 +416,7 @@ section {
     .about img {
       width: 52vw;
     }
+    .contact form {
+      flex-direction: column;
+    }
 }
